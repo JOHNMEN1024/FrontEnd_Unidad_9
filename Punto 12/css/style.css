@@ -1,0 +1,43 @@
+h1{
+    font-weight: bold;
+}
+.btn-group {
+    padding: 10px 43%;
+}
+.mb-3{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 10px;
+    position: relative;
+    font-weight: bold;
+}
+#emailHelp{
+    color: #ff0505;
+    font-size: 15px;
+    font-style: oblique;
+}
+.card{
+    margin: 0 auto;
+    color: rgb(0, 0, 0);
+}
+/* Complemento*/
+.name {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 800px;
+    padding-top: 10px;
+    font-style: oblique;
+    color:#60006d;
+}
+.correo {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 800px;
+    padding-top: 5px;
+    color:#60006d;
+    font-style: oblique;
+}
+
+body {
+    background-image: url("fondos.jpg")
+  }

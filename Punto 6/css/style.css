@@ -1,0 +1,32 @@
+h1{
+    font-weight: bold;
+    font-size: 90px;
+}
+
+.w3schools{
+    color: yellow;
+    font-size: 50px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+.w3schools:hover, .w3schools:active {
+    background-color: green;
+    color: white;
+  }
+
+.jsfiddle{    
+    color: rgb(247, 12, 207);
+    font-size: 50px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+.jsfiddle:hover, .jsfiddle:active {
+    background-color: green;
+    color: white;
+  }

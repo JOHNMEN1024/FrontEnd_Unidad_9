@@ -1,0 +1,17 @@
+.tabla{
+    background-color: yellow;
+    border-collapse: collapse;
+    border-bottom:dotted red;
+    font-style: italic;
+}
+
+.tabla th{
+    color: red;
+}
+.tabla th,td{
+    border: 1px dotted black;
+}
+
+#datos{
+    font-size: 40px;
+}

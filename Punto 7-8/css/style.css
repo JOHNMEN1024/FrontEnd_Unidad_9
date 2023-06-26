@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+.container{
+    background-color: #df86d0;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: blue;
+    transition: all .5s;
+}
